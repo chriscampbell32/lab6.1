@@ -1,4 +1,4 @@
-[
+window.users = [
   {
     "coordinates": null,
     "favorited": false,
@@ -197,4 +197,4 @@
     "source": "<a href=\"//sites.google.com/site/yorufukurou/%5C%22\" rel=\"nofollow\">YoruFukurou</a>",
     "in_reply_to_status_id": null
   }
-]k
+]
